@@ -12,7 +12,7 @@ A comprehensive Excel-based business report and dashboard analyzing Apple Store 
 **📊 Dataset:** Apple Store sales (fictional) across various countries  
 
 ### ✅ Key Deliverables:
-- Answered 18 business questions  
+- Answered 15 business questions  
 - KPI summaries  
 - Visual dashboard  
 - Advanced Excel functions (LOOKUP, PivotTables, SUMIFS, etc.)
@@ -59,16 +59,10 @@ Apple Store leadership wants a quick yet insightful overview of their sales perf
 
 ---
 
-## 📎 Files & Resources
-
-- 📥 **Excel Report & Dashboard:**  
-  🔗 [Apple Store Final Report & Dashboard – Download Link](#) *(Replace with actual download link)*
-
-- 🧮 **Raw Data:**  
-  Includes three datasets: Sales Data, Stores Info, Products Table.
+## 📎Outcomes
 
 - 📄 **Business Questions Sheet:**  
-  18 structured business questions + bonus Excel functions.
+  15 structured business questions + bonus Excel functions.
 
 ---
 
