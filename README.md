@@ -76,11 +76,3 @@ Apple Store leadership wants a quick yet insightful overview of their sales perf
 
 ---
 
-## 🚀 Next Steps
-
-- Recreate dashboard in Power BI & Tableau  
-- Embed downloadable Excel file into portfolio  
-- Share case study on LinkedIn to showcase reporting & analytical skills  
-
----
-
